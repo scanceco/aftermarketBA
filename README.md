@@ -1,2 +1,2 @@
 # aftermarketBA
-repository folder for blogger
+repository folder for webpage
